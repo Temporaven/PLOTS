@@ -6,3 +6,6 @@
 | .png file of the collated graphs               | ✅ Completed |
 | Sample of the collated file saved as .pdf      | ✅ Completed |
 | Pushed everything to GitHub                    | ✅ Completed |
+
+## Contributors
+Kristian Angelo Ray Rosillosa & Venzhower Manlangit
